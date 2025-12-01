@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@angular-demo/simple-package": ["libs/simple-package/src/index.ts"],
       "@angular-demo/ui": ["packages/ui/src/index.ts"]
     }
   },
